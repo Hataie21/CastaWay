@@ -386,6 +386,7 @@ input{
         margin-top: 50px;
     }
     .header__nav{
+        width: 200px;
         margin: 0 auto;
     }
     .nav{
