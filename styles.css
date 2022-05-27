@@ -351,11 +351,13 @@ margin: 20px 6px 0;
         width: 60%;
         line-height: 40px;
         margin: 10px;
-
     }
     .img__intro{
         width: 325px;
         height: 436px;
+    }
+    .block__img{
+        margin-bottom:10px;
     }
     .second__inner{
         justify-content: space-around;
