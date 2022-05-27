@@ -288,7 +288,7 @@ input{
     width: 100px;
 }
 .star__inner{
-margin: 20px 6px 0;
+    margin: 20px 6px 0;
 }
 .feed__title{
     width: 313px;
@@ -311,7 +311,6 @@ margin: 20px 6px 0;
     .header__inner{
         display: block;
         text-align: center;
-
     }
     .nav{
         width: 280px;
@@ -328,7 +327,6 @@ margin: 20px 6px 0;
         margin: 60px auto;
     }
     .intro__inner{
-
         justify-content: center;
         margin: 0 auto;
     }
@@ -355,9 +353,6 @@ margin: 20px 6px 0;
     .img__intro{
         width: 325px;
         height: 436px;
-    }
-    .block__img{
-        margin-bottom:10px;
     }
     .second__inner{
         justify-content: space-around;
@@ -389,5 +384,13 @@ margin: 20px 6px 0;
     }
     .footer__left{
         margin-top: 50px;
+    }
+    .header__nav{
+        margin: 0 auto;
+    }
+    .nav{
+        width: 200px;
+        display: flex;
+        flex-wrap: wrap;
     }
 }
